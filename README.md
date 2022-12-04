@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Noor Ul Huda
 - 👀 I’m interested in Webdevelopment
 - 🌱 I’m currently learning Javscript and React
-- 
 - 📫 How to reach me noorabdulrab900@gmail .com
 
 <!---
