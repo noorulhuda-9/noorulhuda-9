@@ -1,11 +1,16 @@
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Noor Ul Huda</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noorulhuda-9&label=Profile%20views&color=0e75b6&style=flat" alt="noorulhuda-9" /> </p>
 
 - 🌱 I’m currently learning **React and Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/noor-ul-huda-4a5a50212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noor-ul-huda-4a5a50212" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/noor-ul-huda9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noor-ul-huda9" height="30" width="40" /></a>
 <a href="https://instagram.com/nnoorrulhuda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nnoorrulhuda_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/engineersworld9683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="engineersworld9683" height="30" width="40" /></a>
 </p>
