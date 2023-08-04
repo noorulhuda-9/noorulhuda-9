@@ -1,6 +1,6 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Noor Ul Huda</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">Trainee AI Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 
